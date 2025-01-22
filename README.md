@@ -1,5 +1,5 @@
 # Hi There
-Software Engineer with 5+ years of experience in full-stack development and robotics. I build web apps for companies and love working on ambitious projects with awesome people. I aim for clean, reusable code — because a healthy code base makes great products!<br><br>Outside of coding, I’m passionate about F1 racing, high-speed action, and data protection in the cybersecurity world. I also enjoy football when I need a break from tech.
+I aim for clean, reusable code — because a healthy code base makes great products!<br><br>Outside of coding, I’m passionate about F1 racing, high-speed action, and data protection in the cybersecurity world. I also enjoy football when I need a break from tech.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_musembi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Geofrey-Mussembi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mussembi)
