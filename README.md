@@ -1,4 +1,4 @@
-# Hi There
+# Hello good people!
 I aim for clean, reusable code — because a healthy code base makes great products!<br><br>Outside of coding, I’m passionate about F1 racing, high-speed action, and data protection in the cybersecurity world. I also enjoy football when I need a break from tech.
 
 ## 🌐 Socials:
