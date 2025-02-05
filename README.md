@@ -1,4 +1,4 @@
-#Hello good people!
+# Hello Good People
 "I’m a son after God’s own heart, fueled by my passion for Christ and living with purpose! 🙌 I believe in clean, reusable code because a solid foundation makes all the difference in building something great. 💻✨
 Off the screen, I’m all about F1 racing, high-speed thrills, and aviation—soon to take flight as a private pilot! ✈️ The sound of a V8 engine? Pure adrenaline. 🚗💥 And when I need to unwind, I’m always chasing that rush!"
 
