@@ -3,7 +3,11 @@
 Off the screen, I’m all about F1 racing, high-speed thrills, and aviation—soon to take flight as a private pilot! ✈️ The sound of a V8 engine? Pure adrenaline. 🚗💥 And when I need to unwind, I’m always chasing that rush!"
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_musembi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Geofrey-Mussembi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mussembi)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2304B300.svg?logo=WhatsApp&logoColor=white)](https://wa.me/254729079925)
+[![Call](https://img.shields.io/badge/Call-%2300B5E2.svg?logo=phone&logoColor=white)](tel:+254729079925)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Geofrey-Mussembi) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mussembi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_musembi) 
 
 # 💻 Tech Stack:
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
