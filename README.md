@@ -5,7 +5,6 @@ Off the screen, I’m all about F1 racing, high-speed thrills, and aviation—so
 ## 🌐 Socials:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2304B300.svg?logo=WhatsApp&logoColor=white)](https://wa.me/254729079925)
 [![Call](https://img.shields.io/badge/Call-%2300B5E2.svg?logo=phone&logoColor=white)](tel:+254729079925)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/Mussembi7)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:geofreymussembi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Geofrey-Mussembi) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mussembi)
